@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/masterfrac/leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/masterfrac/leetcode/tree/master/0048-rotate-image) |
 | [0457-circular-array-loop](https://github.com/masterfrac/leetcode/tree/master/0457-circular-array-loop) |
 ## Math
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/masterfrac/leetcode/tree/master/0001-two-sum) |
 | [0457-circular-array-loop](https://github.com/masterfrac/leetcode/tree/master/0457-circular-array-loop) |
 ## Two Pointers
 |  |
