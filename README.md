@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/masterfrac/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/masterfrac/leetcode/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/masterfrac/leetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/masterfrac/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
