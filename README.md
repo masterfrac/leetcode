@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/masterfrac/leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/masterfrac/leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/masterfrac/leetcode/tree/master/0048-rotate-image) |
 | [0457-circular-array-loop](https://github.com/masterfrac/leetcode/tree/master/0457-circular-array-loop) |
 ## Math
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/masterfrac/leetcode/tree/master/0031-next-permutation) |
 | [0457-circular-array-loop](https://github.com/masterfrac/leetcode/tree/master/0457-circular-array-loop) |
 ## Floyd's Cycle Finding Algorithm
 |  |
