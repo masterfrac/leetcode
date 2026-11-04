@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/masterfrac/leetcode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/masterfrac/leetcode/tree/master/0048-rotate-image) |
 | [0457-circular-array-loop](https://github.com/masterfrac/leetcode/tree/master/0457-circular-array-loop) |
+| [0704-binary-search](https://github.com/masterfrac/leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/masterfrac/leetcode/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/masterfrac/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
