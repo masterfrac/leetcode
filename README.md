@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/masterfrac/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/masterfrac/leetcode/tree/master/0048-rotate-image) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0457-circular-array-loop](https://github.com/masterfrac/leetcode/tree/master/0457-circular-array-loop) |
 | [0704-binary-search](https://github.com/masterfrac/leetcode/tree/master/0704-binary-search) |
 ## Math
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/masterfrac/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/masterfrac/leetcode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/masterfrac/leetcode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
