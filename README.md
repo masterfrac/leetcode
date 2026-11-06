@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/masterfrac/leetcode/tree/master/0162-find-peak-element) |
 | [0457-circular-array-loop](https://github.com/masterfrac/leetcode/tree/master/0457-circular-array-loop) |
+| [0540-single-element-in-a-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/masterfrac/leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/masterfrac/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/masterfrac/leetcode/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/masterfrac/leetcode/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
