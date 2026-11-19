@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/masterfrac/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/masterfrac/leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/masterfrac/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/masterfrac/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/masterfrac/leetcode/tree/master/0189-rotate-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/masterfrac/leetcode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/masterfrac/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/masterfrac/leetcode/tree/master/0283-move-zeroes) |
 | [0457-circular-array-loop](https://github.com/masterfrac/leetcode/tree/master/0457-circular-array-loop) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/masterfrac/leetcode/tree/master/0410-split-array-largest-sum) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
