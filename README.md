@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/masterfrac/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/masterfrac/leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/masterfrac/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/masterfrac/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/masterfrac/leetcode/tree/master/0457-circular-array-loop) |
 | [0540-single-element-in-a-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/masterfrac/leetcode/tree/master/0704-binary-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/masterfrac/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/masterfrac/leetcode/tree/master/0012-integer-to-roman) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/masterfrac/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/masterfrac/leetcode/tree/master/0457-circular-array-loop) |
 ## Two Pointers
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0088-merge-sorted-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/masterfrac/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Simulation
 |  |
 | ------- |
