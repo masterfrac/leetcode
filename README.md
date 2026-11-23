@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/masterfrac/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/masterfrac/leetcode/tree/master/0457-circular-array-loop) |
 | [0540-single-element-in-a-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/masterfrac/leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/masterfrac/leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/masterfrac/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/masterfrac/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/masterfrac/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0561-array-partition](https://github.com/masterfrac/leetcode/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/masterfrac/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
@@ -133,8 +135,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/masterfrac/leetcode/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/masterfrac/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/masterfrac/leetcode/tree/master/0561-array-partition) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/masterfrac/leetcode/tree/master/0867-transpose-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/masterfrac/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
